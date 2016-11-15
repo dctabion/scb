@@ -1,0 +1,17 @@
+SOUNDCLOUD
+
+Player for site with mix of songs from all albums
+<iframe width="100%" height="171" scrolling="no" frameborder="no" src=https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/269094541&color=ff5500&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_artwork=false></iframe>
+
+BUY
+Trying to Make a Living
+https://itunes.apple.com/us/album/trying-to-make-living-playing/id983058047
+http://www.cdbaby.com/cd/samcockrell1
+
+Colorblind
+https://itunes.apple.com/us/album/colorblind/id911008480
+http://www.cdbaby.com/cd/samcockrell
+
+I'm In The Business
+https://itunes.apple.com/us/album/im-in-the-business/id695863573
+http://www.cdbaby.com/cd/samcockrell2
