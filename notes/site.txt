@@ -15,3 +15,7 @@ http://www.cdbaby.com/cd/samcockrell
 I'm In The Business
 https://itunes.apple.com/us/album/im-in-the-business/id695863573
 http://www.cdbaby.com/cd/samcockrell2
+
+
+// Next collect Soundcloud Accounts and Info
+// Deal with passwords
